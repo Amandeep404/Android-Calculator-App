@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnColor">#36454F</color>
+    <color name="btnEqualTo">#242b30</color>
+    <color name="textViewColor">#353935</color>
+</resources>
